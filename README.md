@@ -1,5 +1,4 @@
 # CARAT
- For 2023 eResearch
  
 ### Install all dependencies
 For compatible reasons, we are going to use R 4.2.X and DT 0.2.5 
