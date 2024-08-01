@@ -5,7 +5,7 @@ For compatible reasons, we are going to use R 4.2.X and DT 0.2.5
 
 
 ```R
-install.packages(c('haven','labelled','tidyverse','dplyr','flextable','officer','stringr','sjlabelled','foreign','car','reshape2','gmodels','epiDisplay','shiny','remotes'))
+install.packages(c('haven','labelled','tidyverse','dplyr','flextable','officer','stringr','sjlabelled','foreign','car','reshape2','gmodels','epiDisplay','shiny','remotes','shinythemes','markdown'))
 ```
 
 particular in Rshiny, DT 0.25 version will be used to prevent incompatible with CellEdits.
